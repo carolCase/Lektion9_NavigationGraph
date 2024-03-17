@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lektion_9_navigationGraph</string>
+
+    <string name="home_mesage_fragment">Homepage</string>
+    <string name="first_mesage_fragment">Fragment nr1</string>
+    <string name="activity">Activity!!</string>
+
+    <string name="second_message_fragment">Fragment nr2</string>
+</resources>
